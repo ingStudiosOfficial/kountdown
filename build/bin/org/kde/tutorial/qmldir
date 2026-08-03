@@ -1,0 +1,6 @@
+module org.kde.tutorial
+typeinfo kirigami-hello.qmltypes
+prefer :/qt/qml/org/kde/tutorial/
+Main 254.0 Main.qml
+depends QtQuick
+
