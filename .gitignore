@@ -1,5 +1,6 @@
 *.kdev4
 .kdev4/
 compile_commands.json
+compile_commands.json/
 build/
 .qmlls.ini
